@@ -2,8 +2,7 @@ modificación archivo
 
 \\wsl$\Ubuntu-20.04\home
 
-
+Experimento 1
 
 Master 1
-
 Master 2
